@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="3896" started-at="2019-03-06T14:33:12Z" finished-at="2019-03-06T14:33:16Z">
+  <suite name="Default suite" duration-ms="13310" started-at="2019-03-09T10:02:59Z" finished-at="2019-03-09T10:03:12Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="3896" started-at="2019-03-06T14:33:12Z" finished-at="2019-03-06T14:33:16Z">
-      <class name="com.cucumber.RestAssured.RestAssuredReadResponsedifferentways">
-        <test-method status="PASS" signature="testExtractResponse()[pri:0, instance:com.cucumber.RestAssured.RestAssuredReadResponsedifferentways@4520ebad]" name="testExtractResponse" duration-ms="3850" started-at="2019-03-06T14:33:12Z" finished-at="2019-03-06T14:33:16Z">
+    <test name="Default test" duration-ms="13310" started-at="2019-03-09T10:02:59Z" finished-at="2019-03-09T10:03:12Z">
+      <class name="com.cucumber.RestAssured.RestAssuredJSonPathTest">
+        <test-method status="PASS" signature="testJsonPath()[pri:0, instance:com.cucumber.RestAssured.RestAssuredJSonPathTest@59f99ea]" name="testJsonPath" duration-ms="13213" started-at="2019-03-09T10:02:59Z" finished-at="2019-03-09T10:03:12Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testExtractResponse -->
-      </class> <!-- com.cucumber.RestAssured.RestAssuredReadResponsedifferentways -->
+        </test-method> <!-- testJsonPath -->
+      </class> <!-- com.cucumber.RestAssured.RestAssuredJSonPathTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

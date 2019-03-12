@@ -31,6 +31,31 @@
 	    <scope>test</scope>
 	</dependency>
 	
+	<!-- https://mvnrepository.com/artifact/io.rest-assured/json-path use to parse JSON document-->
+	<dependency>
+	    <groupId>io.rest-assured</groupId>
+	    <artifactId>json-path</artifactId>
+	    <version>3.3.0</version>
+	</dependency>
+	
+	<!-- https://mvnrepository.com/artifact/io.rest-assured/json-schema-validator - to validate a JSON response -->
+	<dependency>
+	    <groupId>io.rest-assured</groupId>
+	    <artifactId>json-schema-validator</artifactId>
+	    <version>3.3.0</version>
+	</dependency>
+	
+	<!-- https://mvnrepository.com/artifact/org.hamcrest/java-hamcrest  | used for regex validations -->
+	<dependency>
+	    <groupId>org.hamcrest</groupId>
+	    <artifactId>java-hamcrest</artifactId>
+	    <version>2.0.0.0</version>
+	    <scope>test</scope>
+	</dependency>
+	
+	
+	
+	
 
   </dependencies>
 </project>
